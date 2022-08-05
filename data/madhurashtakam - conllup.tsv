@@ -1,6 +1,8 @@
 # global.columns = S:TEXT_LINE_ID ID FORM S:ANVAYAPOS S:VIŚLEṢAṆA S:VIGRAHA S:DHĀTU S:VYUTPATTI S:HGLOSS								
 # columnstsv = S:TEXT_LINE_ID	ID	FORM	S:ANVAYAPOS	S:VIŚLEṢAṆA	S:VIGRAHA	S:DHĀTU	S:VYUTPATTI	S:HGLOSS
 ## text = मधुराष्टकम्								
+## authors = वल्लभाचार्य								
+## commentators = नीतिका जिंदल, सर्वेश्वर राउ दुड्डु								
 # text_line = अधरं मधुरं वदनं मधुरं नयनं मधुरं हसितं मधुरम् । हृदयं मधुरं गमनं मधुरं मधुराधिपतेरखिलं मधुरम् ॥								
 # text_line_hi = होँठ सुधामय, मुख आकर्षक, आँख मनोहर, उन्मादक हँसी । रमणीय हृदय और मनमोहक गति, माधुर्यों के स्वामी का सब कुछ मधुर ॥								
 # text_line_id = 1								
